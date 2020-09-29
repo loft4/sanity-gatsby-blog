@@ -10,6 +10,12 @@ export default {
       title: 'Title'
     },
     {
+      name: 'subtitle',
+      type: 'string',
+      title: 'Subtitle',
+      description: 'keep it simple stupid KISS'
+    },
+    {
       name: 'description',
       type: 'text',
       title: 'Description',
